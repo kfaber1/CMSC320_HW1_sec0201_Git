@@ -6,6 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Any field that would include dealing with large amounts of information like finances, education, etc. Any field can have a data science application nowadays. In finance for example, you can use data science to analyze trends or make predictions related to your company's finances.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging would preserve the contents of any branch that you want to merge to the one you work on. Rebasing will essentially rewrite your main branch with what the new commits of the merge branch. Rebasing creates a more linear version history while merging can create diamond shapes on your version history due to every branch being accounted for in a merge.
+
 Q4: What are you looking forward to this semester?
 
 Answer: The amount of cool activities I plan to seek! Like research, potentially more music related stuff, etc.
